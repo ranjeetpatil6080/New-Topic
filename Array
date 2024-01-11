@@ -1,0 +1,9 @@
+//How to create an Array
+
+//Syntax:
+ 1: Datatype [] Variable_Name=New Datatype[size];
+ 2: Datatype  Variable_Name=New Datatype[size]; 
+
+// Example:
+
+int a []=new int [6];
